@@ -19,7 +19,7 @@ Intalar typeorm para postgres
   - yarn install --save @nestjs/typeorm typeorm pg
 
 
-# Instruccfiones gfenerales
+# Instruccfiones generales
 
   1. Clonar repositorio
   2. yarn install
@@ -27,4 +27,5 @@ Intalar typeorm para postgres
   4. cambiar las variables de entorno
   5. levantar la BDD con docker-compose-up
   6. levantar el servidor con yarn run start:dev
+  7. levantar el seed con insomnia/postman/thunderCliente
 
